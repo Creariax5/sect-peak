@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "temperature": 3
+    },
+    {
+        "id": 2,
+        "temperature": 1
+    },
+    {
+        "id": 3,
+        "temperature": 3
+    },
+    {
+        "id": 4,
+        "temperature": 3
+    },
+    {
+        "id": 5,
+        "temperature": 0
+    },
+    {
+        "id": 6,
+        "temperature": 0
+    },
+    {
+        "id": 7,
+        "temperature": -3
+    },
+    {
+        "id": 8,
+        "temperature": 0
+    },
+    {
+        "id": 9,
+        "temperature": 0
+    },
+    {
+        "id": 10,
+        "temperature": 2
+    },
+    {
+        "id": 11,
+        "temperature": 0
+    },
+    {
+        "id": 12,
+        "temperature": 2
+    },
+    {
+        "id": 13,
+        "temperature": -2
+    },
+    {
+        "id": 14,
+        "temperature": -1
+    },
+    {
+        "id": 15,
+        "temperature": 5
+    },
+    {
+        "id": 16,
+        "temperature": 5
+    },
+    {
+        "id": 17,
+        "temperature": 5
+    },
+    {
+        "id": 18,
+        "temperature": 5
+    },
+    {
+        "id": 19,
+        "temperature": 5
+    },
+    {
+        "id": 20,
+        "temperature": 5
+    },
+    {
+        "id": 21,
+        "temperature": 5
+    },
+    {
+        "id": 22,
+        "temperature": 5
+    },
+    {
+        "id": 23,
+        "temperature": 5
+    },
+    {
+        "id": 24,
+        "temperature": 5
+    },
+    {
+        "id": 25,
+        "temperature": 5
+    }
+]
